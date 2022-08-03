@@ -1,0 +1,26 @@
+#heading
+{
+    background-color: grey;
+    color: white;
+    font-family: 'Special Elite', cursive;
+}
+
+#bodyf
+{
+    background-color:darkseagreen;
+    font-family: 'Special Elite', cursive;
+color: white;
+}
+
+#image
+{
+    width: 200px;
+    height: 200px;
+}
+
+#foot
+{
+    font-family: 'Special Elite', cursive;
+    color: black;
+    text-shadow: 5px;
+}
